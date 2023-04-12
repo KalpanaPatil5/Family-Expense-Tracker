@@ -1,0 +1,9 @@
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker\DAL\bin\Debug\DAL.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker\DAL\bin\Debug\DAL.pdb
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker\DAL\bin\Debug\BO.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker\DAL\bin\Debug\BO.pdb
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker\DAL\obj\Debug\DAL.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker\DAL\obj\Debug\DAL.pdb

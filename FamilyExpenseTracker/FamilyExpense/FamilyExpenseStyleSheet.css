@@ -1,0 +1,65 @@
+﻿body {
+    background-color: lightpink;
+    backface-visibility: hidden;
+}
+
+#submit {
+    background-color: darkblue;
+    color: white;
+    font-size: large;
+    font-display: block;
+}
+
+div, label, td {
+    margin: 0 auto;
+    text-align: center;
+    align-content: center;
+}
+
+input[type=text] {
+    margin: 0 auto;
+    align-content: center;
+}
+
+table {
+    margin: 0 auto;
+    text-align: center;
+    align-content: center;
+    background-color:lightcoral;
+}
+
+.auto-style1 {
+    width: 255px;
+    height: 37px;
+}
+
+.auto-style2 {
+    width: 684px;
+    height: 336px;
+}
+
+.auto-style4 {
+    width: 701px;
+}
+
+body {
+    background-color: khaki;
+}
+
+table {
+    margin: 0 auto;
+    border-style: double;
+    border-color: brown;
+    padding: 10px;
+}
+
+td {
+    align-content: center;
+}
+
+#submit {
+    background-color: darkblue;
+    color: white;
+    font-size: medium;
+    font-display: block;
+}

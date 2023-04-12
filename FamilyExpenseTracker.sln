@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyExpenseTracker", "FamilyExpenseTracker\FamilyExpenseTracker.csproj", "{D27BA5DC-E62C-42D7-BCF3-42CC2A1D337F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BO", "BO\BO.csproj", "{CC5AC335-C4AA-4A85-AB35-C64D0818AF43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{B336350B-F2E6-476E-9131-E6856F00293D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D27BA5DC-E62C-42D7-BCF3-42CC2A1D337F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D27BA5DC-E62C-42D7-BCF3-42CC2A1D337F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D27BA5DC-E62C-42D7-BCF3-42CC2A1D337F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D27BA5DC-E62C-42D7-BCF3-42CC2A1D337F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5AC335-C4AA-4A85-AB35-C64D0818AF43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5AC335-C4AA-4A85-AB35-C64D0818AF43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5AC335-C4AA-4A85-AB35-C64D0818AF43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5AC335-C4AA-4A85-AB35-C64D0818AF43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B336350B-F2E6-476E-9131-E6856F00293D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B336350B-F2E6-476E-9131-E6856F00293D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B336350B-F2E6-476E-9131-E6856F00293D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B336350B-F2E6-476E-9131-E6856F00293D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9351569-86C3-47BD-9908-5AED23BE50F3}
+	EndGlobalSection
+EndGlobal

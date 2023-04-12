@@ -1,0 +1,11 @@
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker\BO\bin\Debug\BO.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker\BO\bin\Debug\BO.pdb
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker\BO\obj\Debug\BO.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker\BO\obj\Debug\BO.pdb
+F:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker\BO\bin\Debug\BO.dll
+F:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker\BO\bin\Debug\BO.pdb
+F:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker\BO\obj\Debug\BO.csprojAssemblyReference.cache
+F:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+F:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker\BO\obj\Debug\BO.dll
+F:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker\BO\obj\Debug\BO.pdb
