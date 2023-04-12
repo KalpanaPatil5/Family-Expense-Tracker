@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FamilyExpenseTrackerModelStoreContainer" CdmEntityContainer="FamilyExpenseTrackerDBConnectionString">
+    <EntitySetMapping Name="FamilyExpenses">
+      <EntityTypeMapping TypeName="FamilyExpenseTrackerModel.FamilyExpense">
+        <MappingFragment StoreEntitySet="FamilyExpense">
+          <ScalarProperty Name="ExpenseId" ColumnName="ExpenseId" />
+          <ScalarProperty Name="FamilyMemberId" ColumnName="FamilyMemberId" />
+          <ScalarProperty Name="Purpose" ColumnName="Purpose" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="DateTime" ColumnName="DateTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FamilyMembers">
+      <EntityTypeMapping TypeName="FamilyExpenseTrackerModel.FamilyMember">
+        <MappingFragment StoreEntitySet="FamilyMember">
+          <ScalarProperty Name="FamilyMemberId" ColumnName="FamilyMemberId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Cell" ColumnName="Cell" />
+          <ScalarProperty Name="Work" ColumnName="Work" />
+          <ScalarProperty Name="Income" ColumnName="Income" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FamilyExpenseTrackerModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="FamilyExpense">
+    <Key>
+      <PropertyRef Name="ExpenseId" />
+    </Key>
+    <Property Name="ExpenseId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FamilyMemberId" Type="Int32" />
+    <Property Name="Purpose" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Amount" Type="Int32" />
+    <Property Name="DateTime" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="FamilyMember" Relationship="Self.FK__FamilyExp__Famil__4BAC3F29" FromRole="FamilyExpense" ToRole="FamilyMember" />
+  </EntityType>
+  <EntityType Name="FamilyMember">
+    <Key>
+      <PropertyRef Name="FamilyMemberId" />
+    </Key>
+    <Property Name="FamilyMemberId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Cell" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Work" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Income" Type="Int32" />
+    <NavigationProperty Name="FamilyExpenses" Relationship="Self.FK__FamilyExp__Famil__4BAC3F29" FromRole="FamilyMember" ToRole="FamilyExpense" />
+  </EntityType>
+  <Association Name="FK__FamilyExp__Famil__4BAC3F29">
+    <End Role="FamilyMember" Type="Self.FamilyMember" Multiplicity="0..1" />
+    <End Role="FamilyExpense" Type="Self.FamilyExpense" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FamilyMember">
+        <PropertyRef Name="FamilyMemberId" />
+      </Principal>
+      <Dependent Role="FamilyExpense">
+        <PropertyRef Name="FamilyMemberId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="FamilyExpenseTrackerDBConnectionString" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="FamilyExpenses" EntityType="Self.FamilyExpense" />
+    <EntitySet Name="FamilyMembers" EntityType="Self.FamilyMember" />
+    <AssociationSet Name="FK__FamilyExp__Famil__4BAC3F29" Association="Self.FK__FamilyExp__Famil__4BAC3F29">
+      <End Role="FamilyMember" EntitySet="FamilyMembers" />
+      <End Role="FamilyExpense" EntitySet="FamilyExpenses" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

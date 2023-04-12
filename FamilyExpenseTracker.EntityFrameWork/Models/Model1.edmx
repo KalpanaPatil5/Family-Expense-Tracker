@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="FamilyExpenseTrackerModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="FamilyExpense">
+          <Key>
+            <PropertyRef Name="ExpenseId" />
+          </Key>
+          <Property Name="ExpenseId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="FamilyMemberId" Type="int" />
+          <Property Name="Purpose" Type="varchar" MaxLength="100" />
+          <Property Name="Amount" Type="int" />
+          <Property Name="DateTime" Type="datetime" />
+        </EntityType>
+        <EntityType Name="FamilyMember">
+          <Key>
+            <PropertyRef Name="FamilyMemberId" />
+          </Key>
+          <Property Name="FamilyMemberId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="varchar" MaxLength="100" />
+          <Property Name="Cell" Type="varchar" MaxLength="100" />
+          <Property Name="Work" Type="varchar" MaxLength="100" />
+          <Property Name="Income" Type="int" />
+        </EntityType>
+        <Association Name="FK__FamilyExp__Famil__4BAC3F29">
+          <End Role="FamilyMember" Type="Self.FamilyMember" Multiplicity="0..1" />
+          <End Role="FamilyExpense" Type="Self.FamilyExpense" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="FamilyMember">
+              <PropertyRef Name="FamilyMemberId" />
+            </Principal>
+            <Dependent Role="FamilyExpense">
+              <PropertyRef Name="FamilyMemberId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="FamilyExpenseTrackerModelStoreContainer">
+          <EntitySet Name="FamilyExpense" EntityType="Self.FamilyExpense" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="FamilyMember" EntityType="Self.FamilyMember" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__FamilyExp__Famil__4BAC3F29" Association="Self.FK__FamilyExp__Famil__4BAC3F29">
+            <End Role="FamilyMember" EntitySet="FamilyMember" />
+            <End Role="FamilyExpense" EntitySet="FamilyExpense" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="FamilyExpenseTrackerModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="FamilyExpense">
+          <Key>
+            <PropertyRef Name="ExpenseId" />
+          </Key>
+          <Property Name="ExpenseId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="FamilyMemberId" Type="Int32" />
+          <Property Name="Purpose" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Amount" Type="Int32" />
+          <Property Name="DateTime" Type="DateTime" Precision="3" />
+          <NavigationProperty Name="FamilyMember" Relationship="Self.FK__FamilyExp__Famil__4BAC3F29" FromRole="FamilyExpense" ToRole="FamilyMember" />
+        </EntityType>
+        <EntityType Name="FamilyMember">
+          <Key>
+            <PropertyRef Name="FamilyMemberId" />
+          </Key>
+          <Property Name="FamilyMemberId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Cell" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Work" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Income" Type="Int32" />
+          <NavigationProperty Name="FamilyExpenses" Relationship="Self.FK__FamilyExp__Famil__4BAC3F29" FromRole="FamilyMember" ToRole="FamilyExpense" />
+        </EntityType>
+        <Association Name="FK__FamilyExp__Famil__4BAC3F29">
+          <End Role="FamilyMember" Type="Self.FamilyMember" Multiplicity="0..1" />
+          <End Role="FamilyExpense" Type="Self.FamilyExpense" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="FamilyMember">
+              <PropertyRef Name="FamilyMemberId" />
+            </Principal>
+            <Dependent Role="FamilyExpense">
+              <PropertyRef Name="FamilyMemberId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="FamilyExpenseTrackerDBConnectionString" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="FamilyExpenses" EntityType="Self.FamilyExpense" />
+          <EntitySet Name="FamilyMembers" EntityType="Self.FamilyMember" />
+          <AssociationSet Name="FK__FamilyExp__Famil__4BAC3F29" Association="Self.FK__FamilyExp__Famil__4BAC3F29">
+            <End Role="FamilyMember" EntitySet="FamilyMembers" />
+            <End Role="FamilyExpense" EntitySet="FamilyExpenses" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="FamilyExpenseTrackerModelStoreContainer" CdmEntityContainer="FamilyExpenseTrackerDBConnectionString">
+          <EntitySetMapping Name="FamilyExpenses">
+            <EntityTypeMapping TypeName="FamilyExpenseTrackerModel.FamilyExpense">
+              <MappingFragment StoreEntitySet="FamilyExpense">
+                <ScalarProperty Name="ExpenseId" ColumnName="ExpenseId" />
+                <ScalarProperty Name="FamilyMemberId" ColumnName="FamilyMemberId" />
+                <ScalarProperty Name="Purpose" ColumnName="Purpose" />
+                <ScalarProperty Name="Amount" ColumnName="Amount" />
+                <ScalarProperty Name="DateTime" ColumnName="DateTime" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="FamilyMembers">
+            <EntityTypeMapping TypeName="FamilyExpenseTrackerModel.FamilyMember">
+              <MappingFragment StoreEntitySet="FamilyMember">
+                <ScalarProperty Name="FamilyMemberId" ColumnName="FamilyMemberId" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="Cell" ColumnName="Cell" />
+                <ScalarProperty Name="Work" ColumnName="Work" />
+                <ScalarProperty Name="Income" ColumnName="Income" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
