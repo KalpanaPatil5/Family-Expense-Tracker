@@ -1,0 +1,46 @@
+﻿@using FamilyExpenseTracker.MVC1.Models
+@model FamilyMember
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>DeleteFamilyMember</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm())
+        {
+            <table>
+                <tr>
+                    <td></td>
+                    <td>@Html.HiddenFor(model => model.FamilyMemberId)</td>
+                </tr>
+                <tr>
+                    <td><label>Name : </label></td>
+                    <td>@Html.TextBoxFor(model => model.Name)</td>
+                </tr>
+                <tr>
+                    <td><label>Cell : </label></td>
+                    <td>@Html.TextBoxFor(model => model.Cell)</td>
+                </tr>
+                <tr>
+                    <td><label>Work : </label></td>
+                    <td>@Html.TextBoxFor(model => model.Work)</td>
+                </tr>
+                <tr>
+                    <td><label>Income</label></td>
+                    <td>@Html.TextBoxFor(model => model.Income)</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><button type="submit">Delete</button></td>
+                </tr>
+
+            </table>
+        }
+
+    </div>
+</body>
+</html>

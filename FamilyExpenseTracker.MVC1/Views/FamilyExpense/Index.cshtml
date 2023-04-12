@@ -1,0 +1,70 @@
+﻿@using FamilyExpenseTracker.MVC1.Models.FamilyExpense
+@model List<FamilyExpense>
+
+
+    <!DOCTYPE html>
+
+    <html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Index</title>
+        <style type="text/css">
+            body {
+                padding: 10px;
+                font-family: 'Source Sans Pro', sans-serif;
+                margin: 0;
+            }
+            table {
+                width: 100%;
+                border: 1px solid black;
+                text-align: center;
+            }
+            th {
+                width: 100%;
+                background: #000;
+                padding: 0;
+                color: white;
+                height: 20px;
+                border: 1px solid white;
+            }
+            tr {
+                display: flex;
+                width: 100%;
+                padding: 0;
+                border: 1px solid black;
+            }
+            td {
+                flex: 1 1 20%;
+                border: 1px solid black;
+            }
+        </style>
+    </head>
+    <body>
+        <div>
+            @Html.ActionLink("Add Family Expense", "AddFamilyExpense")
+            <table>
+                <tr>
+                    <th></th>
+                    <th>ExpenseId</th>
+                    <th>Name</th>
+                    <th>Purpose</th>
+                    <th>Amount</th>
+                    <th>Date</th>
+                    <th></th>
+                </tr>
+                @foreach (var familyExpense in Model)
+                {
+                    <tr>
+                        <td>@Html.ActionLink("Delete", "DeleteFamilyExpense", new { id = familyExpense.ExpenseId })</td>
+                        <td>@familyExpense.ExpenseId</td>
+                        <td>@familyExpense.Name</td>
+                        <td>@familyExpense.Purpose</td>
+                        <td>@familyExpense.Amount</td>
+                        <td>@familyExpense.Date</td>
+                        <td>@Html.ActionLink("Edit","EditFamilyExpense",new { id=familyExpense.ExpenseId})</td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,48 @@
+﻿@using FamilyExpenseTracker.MVC1.Models.FamilyExpense
+@model FamilyExpense
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AddFamilyExpense</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm())
+        {
+        <table>
+            <tr>
+                <td></td>
+                <td>@Html.HiddenFor(model => model.ExpenseId)</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>@Html.HiddenFor(model => model.FamilyMemberId)</td>
+            </tr>
+            <tr>
+                <td><label>Name : </label></td>
+                <td>@Html.TextBoxFor(model =>model.Name)</td>
+            </tr>
+            <tr>
+                <td><label>Purpose : </label></td>
+                <td>@Html.TextBoxFor(model => model.Purpose)</td>
+            </tr>
+            <tr>
+                <td><label>Amount : </label></td>
+                <td>@Html.TextBoxFor(model => model.Amount)</td>
+            </tr>
+            <tr>
+                <td><label>Date : </label></td>
+                <td>@Html.TextBoxFor(model => model.Date, "{0:d MMM yyyy}")</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><button type="submit" value="Submit">Submit</button></td>
+            </tr>
+        </table>
+        }
+    </div>
+</body>
+</html>

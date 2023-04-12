@@ -1,0 +1,152 @@
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\FamilyExpenseTracker.MVC1.dll.config
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\FamilyExpenseTracker.MVC1.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\FamilyExpenseTracker.MVC1.pdb
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\csc.exe
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\csc.exe.config
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\csc.rsp
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\csi.exe
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\csi.exe.config
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\csi.rsp
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.AppContext.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Console.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\vbc.exe
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\vbc.exe.config
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\vbc.rsp
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\Antlr3.Runtime.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\Newtonsoft.Json.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.Helpers.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.Mvc.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.Optimization.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.Razor.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.WebPages.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\WebGrease.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.Helpers.xml
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.Mvc.xml
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.Optimization.xml
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.Razor.xml
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.WebPages.xml
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\Newtonsoft.Json.xml
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\Antlr3.Runtime.pdb
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\obj\Debug\FamilyExpenseTracker.MVC1.csprojAssemblyReference.cache
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\obj\Debug\FamilyExpenseTracker.MVC1.csproj.CoreCompileInputs.cache
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\obj\Debug\FamilyExpenseTracker.MVC1.csproj.CopyComplete
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\obj\Debug\FamilyExpenseTracker.MVC1.dll
+C:\Users\Gouda\source\repos\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\obj\Debug\FamilyExpenseTracker.MVC1.pdb
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\FamilyExpenseTracker.MVC1.dll.config
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\FamilyExpenseTracker.MVC1.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\FamilyExpenseTracker.MVC1.pdb
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\csc.exe
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\csc.exe.config
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\csc.rsp
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\csi.exe
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\csi.exe.config
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\csi.rsp
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.AppContext.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Collections.Immutable.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Console.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.IO.Compression.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.IO.FileSystem.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.IO.Pipes.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Reflection.Metadata.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Security.AccessControl.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Security.Claims.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Security.Principal.Windows.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.ValueTuple.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Xml.XPath.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\vbc.exe
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\vbc.exe.config
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\vbc.rsp
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\VBCSCompiler.exe
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\roslyn\VBCSCompiler.exe.config
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\Antlr3.Runtime.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\Microsoft.Web.Infrastructure.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\Newtonsoft.Json.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.Helpers.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.Mvc.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.Optimization.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.Razor.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.WebPages.Deployment.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.WebPages.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.WebPages.Razor.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\WebGrease.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.Helpers.xml
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.Mvc.xml
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.Optimization.xml
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.Razor.xml
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.WebPages.xml
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.WebPages.Deployment.xml
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\System.Web.WebPages.Razor.xml
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\Newtonsoft.Json.xml
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\Antlr3.Runtime.pdb
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\obj\Debug\FamilyExpenseTracker.MVC1.csprojAssemblyReference.cache
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\obj\Debug\FamilyExpenseTracker.MVC1.csproj.CoreCompileInputs.cache
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\obj\Debug\FamilyExpenseTracker.MVC1.csproj.CopyComplete
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\obj\Debug\FamilyExpenseTracker.MVC1.dll
+E:\klpz downloads\Family Expense Tracker Project\FamilyExpenseTracker.MVC1\FamilyExpenseTracker.MVC1\obj\Debug\FamilyExpenseTracker.MVC1.pdb
